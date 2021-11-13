@@ -9,7 +9,10 @@ Galaktose, 18 years of age, aspiring developer currently learning in Multimedia 
 <h3>Ok.. so then what are you a fan of?</h3>
 Avid Hu Tao, V-tuber and J-pop fan. Plays alot of games. Trying to become a game developer so experience is a must (not copium).
 
-![walfiepeko](https://user-images.githubusercontent.com/89487521/141658650-193649db-4622-43f6-b4d2-3cabbb0448a7.gif)
+<p align = center>
+<img src='https://user-images.githubusercontent.com/89487521/141658650-193649db-4622-43f6-b4d2-3cabbb0448a7.gif' width= '250px' height = '250px'>
+</p>
+
 <hr>
 <h3>Experience in coding?</h3>
 Basic Python, HTML, CSS
