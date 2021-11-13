@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1><i>"Galaktose is the name and sleeping is the game!"</i></h1>
+- galaktose (probably)
+<hr>
+<h3>Who the frick are you?</h3>
+Galaktose, 18 years of age, aspiring developer currently learning in Multimedia University, Cyberjaya, Malaysia.
 
-<!--
-**galaktose/galaktose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![amebg](https://user-images.githubusercontent.com/89487521/141658620-bc80b8ae-254d-4b00-b468-db85dc4fb2ea.jpg)
+<hr>
+<h3>Ok.. so then what are you a fan of?</h3>
+Avid Hu Tao, V-tuber and J-pop fan. Plays alot of games. Trying to become a game developer so experience is a must (not copium).
 
-Here are some ideas to get you started:
+![walfiepeko](https://user-images.githubusercontent.com/89487521/141658650-193649db-4622-43f6-b4d2-3cabbb0448a7.gif)
+<hr>
+<h3>Experience in coding?</h3>
+Basic Python, HTML, CSS
+<br>
+Trying to learn other languages (Including Japanese. I mean it's a language right?)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Socials</h3>
+<a href='https://www.instagram.com/atifsatiraks/?hl=en' target = '_blank'>Instagram</a><br>
+<a href='https://discordapp.com/users/5424/' target = '_blank'>Discord</a>
+
