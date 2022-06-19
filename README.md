@@ -11,6 +11,7 @@ Avid Hu Tao, V-tuber and J-pop fan. Plays alot of games. Trying to become a game
 
 <p align = center>
 <img src='https://user-images.githubusercontent.com/89487521/141658650-193649db-4622-43f6-b4d2-3cabbb0448a7.gif' width= '250px' height = '250px'>
+<img src='https://user-images.githubusercontent.com/89487521/174489150-16f33d08-1c79-4bba-ab48-4a02036a4903.png' width='250px' height = '250px'>
 </p>
 
 <hr>
