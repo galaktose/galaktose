@@ -16,7 +16,7 @@ I know no one actually asked but I'm an avid Hu Tao, V-tuber and J-pop fan. Play
 
 <hr>
 <h3>Experience in coding?</h3>
-Basic Python, HTML, CSS
+Basic Python, HTML, CSS, C++, Java (I should practice more)
 <br>
 Trying to learn other languages (Including Japanese.)
 
