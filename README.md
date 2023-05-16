@@ -2,12 +2,12 @@
 - galaktose (probably)
 <hr>
 <h3>Who are you?</h3>
-Galaktose, 19 years old, developer currently learning in Multimedia University, Cyberjaya, Malaysia.
+Galaktose, 20 years old, developer currently learning in Multimedia University, Cyberjaya, Malaysia.
 
 ![amebg](https://user-images.githubusercontent.com/89487521/141658620-bc80b8ae-254d-4b00-b468-db85dc4fb2ea.jpg)
 <hr>
 <h3>What do you like?</h3>
-I know no one actually asked but I'm an avid Hu Tao, V-tuber and J-pop fan. Plays alot of games. 
+An avid Hu Tao, V-tuber and J-pop fan. Plays alot of games. Collects figurines. etc..
 
 <p align = center>
 <img src='https://user-images.githubusercontent.com/89487521/141658650-193649db-4622-43f6-b4d2-3cabbb0448a7.gif' width= '250px' height = '250px'>
