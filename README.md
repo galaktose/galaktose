@@ -2,7 +2,7 @@
 - galaktose (probably)
 <hr>
 <h3>Who are you?</h3>
-Galaktose, 20 years old, developer currently learning in Multimedia University, Cyberjaya, Malaysia.
+Galaktose, 21 years old, developer currently learning in Multimedia University, Cyberjaya, Malaysia.
 
 ![amebg](https://user-images.githubusercontent.com/89487521/141658620-bc80b8ae-254d-4b00-b468-db85dc4fb2ea.jpg)
 <hr>
