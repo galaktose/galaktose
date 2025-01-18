@@ -2,12 +2,12 @@
 - galaktose (probably)
 <hr>
 <h3>Who are you?</h3>
-Galaktose, 21 years old, developer currently learning in Multimedia University, Cyberjaya, Malaysia.
+Galaktose, 22 years old, developer focused in Game Dev currently learning in Multimedia University, Cyberjaya, Malaysia.
 
 ![amebg](https://user-images.githubusercontent.com/89487521/141658620-bc80b8ae-254d-4b00-b468-db85dc4fb2ea.jpg)
 <hr>
 <h3>What do you like?</h3>
-An avid Hu Tao, V-tuber and J-pop fan. Plays alot of games. Collects figurines. etc..
+An avid Hu Tao, Furina, and J-pop fan. Plays alot of games. Collects figurines. etc..
 
 <p align = center>
 <img src='https://user-images.githubusercontent.com/89487521/141658650-193649db-4622-43f6-b4d2-3cabbb0448a7.gif' width= '250px' height = '250px'>
@@ -15,8 +15,8 @@ An avid Hu Tao, V-tuber and J-pop fan. Plays alot of games. Collects figurines. 
 </p>
 
 <hr>
-<h3>Experience in coding?</h3>
-Basic Python, HTML, CSS, C++, Java (I should practice more)
+<h3>Experience</h3>
+Unreal Engine, Unity, C# Scripting, Python, HTML, CSS, C++, Java (I should practice more)
 <br>
 Trying to learn other languages (Including Japanese.)
 
