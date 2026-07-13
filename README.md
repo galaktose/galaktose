@@ -4,7 +4,7 @@
 <h3>Who are you?</h3>
 Galaktose, 23 years old, developer focused in Game Dev currently learning in Multimedia University, Cyberjaya, Malaysia.
 
-![amebg](https://user-images.githubusercontent.com/89487521/141658620-bc80b8ae-254d-4b00-b468-db85dc4fb2ea.jpg)
+![ba](<img width="1920" height="1080" alt="Palace Belonged_02_EN" src="https://github.com/user-attachments/assets/b2a355ac-429a-41aa-99aa-fbcd27abe479" />)
 <hr>
 <h3>What do you like?</h3>
 An avid Hu Tao, Furina, and J-pop fan whos also a game developer focused on both Unity and Unreal Engine (mostly Unity). Plays alot of games. Collects plushies and figurines. etc..
