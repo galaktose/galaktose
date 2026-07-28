@@ -2,7 +2,7 @@
 - galaktose (currently)
 <hr>
 <h3>Who are you?</h3>
-Galaktose, 23 years old, developer focused in Game Dev currently learning in Multimedia University, Cyberjaya, Malaysia.
+Galaktose, 23 years old, developer focused in Game Development (Unreal and Unity)
 
 ![i miss those 3](images/Palace_Belonged_02_EN.png)
 <hr>
